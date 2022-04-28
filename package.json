@@ -1,0 +1,18 @@
+{
+  "name": "trackrequest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "JuanesGalvis <juangalvis.sh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
